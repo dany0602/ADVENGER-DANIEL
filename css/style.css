@@ -1,0 +1,63 @@
+@import url: https: //
+  header {
+  border: 1max solid blak;
+}
+
+nav a {
+  color: orange;
+  text-decoration: none;
+  text-transform: uppercase;
+  margin: 1rem;
+  font-family: oswald;
+}
+nav {
+  float: right;
+  margin-top: 2.5rem;
+}
+
+header,
+main,
+footer {
+  width: 750px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+body {
+  background-image: url(/img/fond.png);
+}
+header {
+  background-color: #f5e49f;
+}
+main {
+  background-color: white;
+}
+h2 {
+  color: orange;
+  margin-top: 0;
+  font-family: oswald;
+}
+footer {
+  text-align: center;
+}
+
+article a {
+  float: right;
+}
+article img {
+  border: black 1px solid;
+  width: 40%;
+  float: left;
+  margin-right: 1rem;
+}
+
+article a {
+  color: white;
+  background-color: orange;
+  padding: 0.5rem;
+  text-decoration: none;
+}
+
+.clear {
+  clear: both;
+}
