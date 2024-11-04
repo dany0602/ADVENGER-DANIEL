@@ -58,6 +58,10 @@ article a {
   text-decoration: none;
 }
 
+article i {
+  margin-right: 1rem;
+}
+
 .clear {
   clear: both;
 }
